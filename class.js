@@ -1,3 +1,8 @@
+// In the file class.js, you will find a class Word. 
+// Your job is to write the test code in test/class-spec.js to 
+// test the constructor, its variables, and the instance methods found in the Word class.
+
+
 class Word {
   constructor(word) {
     this.word = word;
